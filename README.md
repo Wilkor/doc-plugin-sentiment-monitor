@@ -1,0 +1,1 @@
+# doc-plugin-sentiment-monitor
