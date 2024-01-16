@@ -1,5 +1,5 @@
-![N|Solid](https://raw.githubusercontent.com/Wilkor/img-clonebots/main/logoParseHorizontal.jpeg)
 
+![icone_github](https://github.com/Wilkor/doc-plugin-sentiment-monitor/assets/34819624/9740ac93-cb25-44e2-b8ad-18c42e5c080f)
 
 # Como utilizar a extensão Monitor de sentimento!
 
